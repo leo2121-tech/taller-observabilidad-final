@@ -1,0 +1,134 @@
+services:
+  prometheus:
+    image: prom/prometheus:v2.51.0
+    container_name: prometheus
+    volumes:
+      - ./prometheus/prometheus.yml:/etc/prometheus/prometheus.yml
+    command:
+      - '--config.file=/etc/prometheus/prometheus.yml'
+      - '--storage.tsdb.path=/prometheus'
+      - '--web.enable-lifecycle'
+    ports:
+      - "9090:9090"
+    networks:
+      - observabilidad-net
+
+  node-exporter:
+    image: prom/node-exporter:v1.7.0
+    container_name: node-exporter
+    restart: unless-stopped
+    ports:
+      - "9100:9100"
+    networks:
+      - observabilidad-net
+
+  snmpd:
+    image: polinux/snmpd:latest
+    container_name: snmp-simulator
+    ports:
+      - "161:161/udp"
+    networks:
+      - observabilidad-net
+
+  snmp-exporter:
+    image: prom/snmp-exporter:v0.25.0
+    container_name: snmp-exporter
+    ports:
+      - "9116:9116"
+    depends_on:
+      - snmpd
+    networks:
+      - observabilidad-net
+
+  loki:
+    image: grafana/loki:2.9.6
+    container_name: loki
+    ports:
+      - "3100:3100"
+    command: -config.file=/etc/loki/local-config.yaml
+    networks:
+      - observabilidad-net
+
+  promtail:
+    image: grafana/promtail:2.9.6
+    container_name: promtail
+    volumes:
+      - ./promtail/promtail-config.yml:/etc/promtail/config.yml
+      - ./logs:/var/log/custom
+    command: -config.file=/etc/promtail/config.yml
+    depends_on:
+      - loki
+    networks:
+      - observabilidad-net
+
+  log-generator:
+    image: alpine:latest
+    container_name: log-generator
+    volumes:
+      - ./logs:/var/log/custom
+    command: >
+      /bin/sh -c "while true; do
+        echo '{\"timestamp\":\"'$$(date -u +"%Y-%m-%dT%H:%M:%SZ")'\",\"level\":\"INFO\",\"service\":\"payment-gateway\",\"msg\":\"Transaccion procesada exitosamente\"}' >> /var/log/custom/app-cloud.log;
+        sleep 3;
+        echo '{\"timestamp\":\"'$$(date -u +"%Y-%m-%dT%H:%M:%SZ")'\",\"level\":\"WARN\",\"service\":\"auth-service\",\"msg\":\"Latencia elevada en validacion de token\"}' >> /var/log/custom/app-cloud.log;
+        sleep 4;
+        echo '{\"timestamp\":\"'$$(date -u +"%Y-%m-%dT%H:%M:%SZ")'\",\"level\":\"ERROR\",\"service\":\"db-connector\",\"msg\":\"Timeout al conectar con replica secundaria\"}' >> /var/log/custom/app-cloud.log;
+        sleep 5;
+      done"
+    networks:
+      - observabilidad-net
+
+  grafana:
+    image: grafana/grafana:10.4.1
+    container_name: grafana
+    ports:
+      - "3000:3000"
+    environment:
+      - GF_SECURITY_ADMIN_USER=admin
+      - GF_SECURITY_ADMIN_PASSWORD=admin
+    depends_on:
+      - prometheus
+      - loki
+    networks:
+      - observabilidad-net
+
+  jaeger:
+    image: jaegertracing/all-in-one:1.56
+    container_name: jaeger
+    environment:
+      - COLLECTOR_OTLP_ENABLED=true
+    ports:
+      - "16686:16686"
+      - "4317:4317"
+    networks:
+      - observabilidad-net
+
+  otel-collector:
+    image: otel/opentelemetry-collector-contrib:0.97.0
+    container_name: otel-collector
+    command: ["--config=/etc/otel-collector-config.yml"]
+    volumes:
+      - ./otel/otel-collector-config.yml:/etc/otel-collector-config.yml
+    ports:
+      - "4318:4318"
+    depends_on:
+      - jaeger
+    networks:
+      - observabilidad-net
+
+  hotrod-app:
+    image: jaegertracing/example-hotrod:1.56
+    container_name: hotrod-microservices
+    ports:
+      - "8080:8080"
+    environment:
+      - OTEL_EXPORTER_OTLP_ENDPOINT=http://otel-collector:4318
+    command: ["all", "--otel-exporter=otlp"]
+    depends_on:
+      - otel-collector
+    networks:
+      - observabilidad-net
+
+networks:
+  observabilidad-net:
+    driver: bridge
