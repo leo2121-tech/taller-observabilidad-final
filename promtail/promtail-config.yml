@@ -19,17 +19,21 @@ scrape_configs:
           __path__: /var/log/custom/*.log
 
     pipeline_stages:
+      # 1. Extrae campos del JSON de cada línea
       - json:
           expressions:
             level: level
             service: service
             msg: msg
             timestamp: timestamp
-        - timestamp:
+      # 2. Usa el timestamp del log, no la hora de ingesta
+      - timestamp:
           source: timestamp
           format: RFC3339
+      # 3. Promueve level y service a etiquetas indexadas de Loki
       - labels:
           level:
           service:
+      # 4. Guarda solo el texto del mensaje como contenido de la línea
       - output:
           source: msg
