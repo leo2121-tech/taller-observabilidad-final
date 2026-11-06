@@ -25,6 +25,9 @@ scrape_configs:
             service: service
             msg: msg
             timestamp: timestamp
+        - timestamp:
+          source: timestamp
+          format: RFC3339
       - labels:
           level:
           service:

@@ -17,10 +17,15 @@ services:
     image: prom/node-exporter:v1.7.0
     container_name: node-exporter
     restart: unless-stopped
+    pid: host
     ports:
       - "9100:9100"
     networks:
       - observabilidad-net
+    command:
+      - '--path.rootfs=/host'
+    volumes:
+      - '/:/host:ro,rslave'
 
   snmpd:
     image: polinux/snmpd:latest
@@ -87,10 +92,14 @@ services:
       - "3000:3000"
     environment:
       - GF_SECURITY_ADMIN_USER=admin
-      - GF_SECURITY_ADMIN_PASSWORD=admin
+      - GF_SECURITY_ADMIN_PASSWORD=${GRAFANA_ADMIN_PASSWORD:?Define GRAFANA_ADMIN_PASSWORD en .env}
+    volumes:
+      - ./grafana/provisioning:/etc/grafana/provisioning:ro
+      - grafana-data:/var/lib/grafana
     depends_on:
       - prometheus
       - loki
+      - webhook-receiver
     networks:
       - observabilidad-net
 
@@ -130,6 +139,18 @@ services:
       - otel-collector
     networks:
       - observabilidad-net
+
+  webhook-receiver:
+    image: python:3.12-alpine
+    container_name: webhook-receiver
+    command: ["python", "/app/receiver.py"]
+    volumes:
+      - ./webhook:/app:ro
+    networks:
+      - observabilidad-net
+
+volumes:
+  grafana-data: {}
 
 networks:
   observabilidad-net:
