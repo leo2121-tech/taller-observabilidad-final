@@ -3074,3 +3074,320 @@
 {"timestamp":"2026-11-06T01:56:15Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
 {"timestamp":"2026-11-06T01:56:18Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
 {"timestamp":"2026-11-06T01:56:22Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:11:48Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:11:51Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:11:55Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:12:00Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:12:03Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:12:07Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:12:12Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:12:15Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:12:19Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:12:24Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:12:27Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:12:31Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:12:36Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:12:39Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:12:43Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:12:48Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:12:51Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:12:55Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:13:00Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:13:03Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:13:07Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:13:12Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:13:15Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:13:19Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:13:24Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:13:27Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:13:31Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:13:36Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:13:39Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:13:43Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:13:48Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:13:51Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:13:55Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:14:00Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:14:03Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:14:07Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:14:12Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:14:15Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:14:19Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:14:25Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:14:28Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:14:32Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:14:37Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:14:40Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:14:44Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:14:49Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:14:52Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:14:56Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:15:01Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:15:04Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:15:08Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:15:13Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:15:16Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:15:20Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:15:25Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:15:28Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:15:32Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:15:37Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:15:40Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:15:44Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:15:49Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:15:52Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:15:56Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:16:01Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:16:04Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:16:08Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:16:13Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:16:16Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:16:20Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:16:25Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:16:28Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:16:32Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:16:37Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:16:40Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:16:44Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:16:49Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:16:52Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:16:56Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:17:01Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:17:04Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:17:08Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:17:13Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:17:16Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:17:20Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:17:25Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:17:28Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:17:32Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:17:37Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:17:40Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:17:44Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:17:49Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:17:52Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:17:56Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:18:01Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:18:04Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:18:08Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:18:13Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:18:16Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:18:20Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:18:25Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:18:28Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:18:32Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:18:37Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:18:40Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:18:44Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:18:49Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:18:52Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:18:56Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:19:01Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:19:04Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:19:08Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:19:13Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:19:16Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:19:20Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:19:25Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:19:28Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:19:32Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:19:37Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:19:40Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:19:44Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:19:49Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:19:52Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:19:56Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:20:01Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:20:04Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:20:08Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:20:13Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:20:16Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:20:20Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:20:25Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:20:28Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:20:32Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:20:37Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:20:40Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:20:44Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:20:49Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:20:52Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:20:56Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:21:01Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:21:04Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:21:08Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:21:13Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:21:16Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:21:20Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:21:25Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:21:28Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:21:32Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:21:37Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:21:40Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:21:44Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:21:49Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:21:52Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:21:56Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:22:01Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:22:04Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:22:08Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:22:13Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:22:16Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:22:20Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:22:25Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:22:28Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:22:32Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:22:37Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:22:40Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:22:44Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:22:49Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:22:52Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:22:56Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:23:01Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:23:04Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:23:08Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:23:13Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:23:16Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:23:20Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:23:25Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:23:28Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:23:32Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:23:37Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:23:40Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:23:44Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:23:49Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:23:52Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:23:56Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:24:01Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:24:04Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:24:08Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:24:13Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:24:16Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:24:20Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:24:25Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:24:28Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:24:32Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:24:37Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:24:40Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:24:44Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:24:49Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:24:52Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:24:56Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:25:01Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:25:04Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:25:08Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:25:13Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:25:16Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:25:20Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:25:25Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:25:28Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:25:32Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:25:37Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:25:40Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:25:44Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:25:49Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:25:52Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:25:56Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:26:01Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:26:04Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:26:08Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:26:13Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:26:16Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:26:20Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:26:25Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:26:28Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:26:32Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:26:37Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:26:40Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:26:44Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:26:49Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:26:52Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:26:56Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:27:01Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:27:04Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:27:08Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:27:13Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:27:16Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:27:20Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:27:25Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:27:28Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:27:32Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:27:37Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:27:40Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:27:44Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:27:49Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:27:52Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:27:56Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:28:01Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:28:04Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:28:08Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:28:13Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:28:16Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:28:20Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:28:25Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:28:28Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:28:32Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:28:37Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:28:40Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:28:44Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:28:49Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:28:52Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:28:56Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:29:01Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:29:04Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:29:08Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:29:13Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:29:16Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:29:20Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:29:25Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:29:28Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:29:32Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:29:37Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:29:40Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:29:44Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:29:49Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:29:52Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:29:56Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:30:01Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:30:04Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:30:08Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:30:13Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:30:16Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:30:20Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:30:25Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:30:28Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:30:32Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:30:37Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:30:40Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:30:44Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:30:49Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:30:52Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:30:56Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:31:01Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:31:04Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:31:08Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:31:13Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:31:16Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:31:20Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:31:25Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:31:28Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:31:32Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:31:37Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:31:40Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:31:44Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:31:49Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:31:52Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:31:56Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:32:01Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:32:04Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:32:08Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:32:13Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:32:16Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:32:20Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:32:25Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:32:28Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:32:32Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:32:37Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:32:40Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
+{"timestamp":"2026-11-06T20:32:44Z","level":"ERROR","service":"db-connector","msg":"Timeout al conectar con replica secundaria"}
+{"timestamp":"2026-11-06T20:32:49Z","level":"INFO","service":"payment-gateway","msg":"Transaccion procesada exitosamente"}
+{"timestamp":"2026-11-06T20:32:52Z","level":"WARN","service":"auth-service","msg":"Latencia elevada en validacion de token"}
