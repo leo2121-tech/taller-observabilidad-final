@@ -163,7 +163,11 @@ Información:
 ```logql
 {job="cloud-logs", level="INFO"}
 ```
+   ## Cómo ejecutar
 
+   1. Copia `.env.example` a `.env` y define `GRAFANA_ADMIN_PASSWORD`.
+   2. Levanta el stack con `docker compose up -d`.
+   3. Grafana: http://localhost:3000 · Prometheus: http://localhost:9090 · Jaeger: http://localhost:16686
 ## Trazabilidad distribuida
 
 El sistema utiliza OpenTelemetry Collector para recibir y procesar las trazas generadas por HotROD.
